@@ -1,0 +1,9 @@
+$TTL 86400
+
+@	IN SOA dummy-block.gunnard.se. hostmaster.gunnard.se. ( 2014122720  86400  300  604800  3600 )
+
+@	IN	NS	www.gunnard.se.
+@	IN	A	127.0.0.1
+*	IN	A	127.0.0.1
+@	IN	AAAA	::1
+*	IN	AAAA	::1

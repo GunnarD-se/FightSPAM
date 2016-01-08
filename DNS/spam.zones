@@ -1,0 +1,29 @@
+// SPAM zones
+
+zone "adcolony.com" { type master; file "dummy-block"; };
+zone "adjust.io" { type master; file "dummy-block"; };
+zone "adnxs.com" { type master; file "dummy-block"; };
+zone "adtech.de" { type master; file "dummy-block"; };
+zone "appclick.co" { type master; file "dummy-block"; };
+zone "applifier.com" { type master; file "dummy-block"; };
+zone "appsflyer.com" { type master; file "dummy-block"; };
+zone "cb-cdn.com" { type master; file "dummy-block"; };
+zone "chartboost.com" { type master; file "dummy-block"; };
+zone "dohi.se" { type master; file "dummy-block"; };
+zone "doubleclick.net" { type master; file "dummy-block"; };
+zone "flurry.com" { type master; file "dummy-block"; };
+zone "fusepowered.com" { type master; file "dummy-block"; };
+zone "googleadservices.com" { type master; file "dummy-block"; };
+zone "inmobi.com" { type master; file "dummy-block"; };
+zone "mdotm.com" { type master; file "dummy-block"; };
+zone "mixpanel.com" { type master; file "dummy-block"; };
+zone "mobileapptracking.com" { type master; file "dummy-block"; };
+zone "online-metrix.net" { type master; file "dummy-block"; };
+zone "supersonicads.com" { type master; file "dummy-block"; };
+zone "uberads.com" { type master; file "dummy-block"; };
+zone "ultraadserver.com" { type master; file "dummy-block"; };
+zone "urbanairship.com" { type master; file "dummy-block"; };
+zone "vungle.com" { type master; file "dummy-block"; };
+zone "w3i.com" { type master; file "dummy-block"; };
+
+zone "data.microsoft.com" { type master; file "dummy-block"; };
